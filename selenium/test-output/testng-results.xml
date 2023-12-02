@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[register smoke ge oo1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-02T18:03:33 IST" name="Default suite" finished-at="2023-12-02T18:03:40 IST" duration-ms="7255">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T18:03:33 IST" name="Default test" finished-at="2023-12-02T18:03:40 IST" duration-ms="7255">
+      <class name="Siva_Nandhu_TestNG.Group_Execution">
+        <test-method signature="registerlogin1()[pri:0, instance:Siva_Nandhu_TestNG.Group_Execution@379ab47b]" started-at="2023-12-02T18:03:33 IST" name="registerlogin1" finished-at="2023-12-02T18:03:40 IST" duration-ms="7180" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[register smoke ge oo1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerlogin1 -->
+      </class> <!-- Siva_Nandhu_TestNG.Group_Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
