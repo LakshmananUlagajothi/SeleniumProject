@@ -9,6 +9,7 @@ public class Siva_Nandhu_list_of_String {
 	public void testNandhu()
 	{
 		Reporter.log("Nandhu love siva", true);
+		Reporter.log("Siva love Anbu",true);
 	}
 
 }
