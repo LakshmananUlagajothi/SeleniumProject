@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Siva_Nandhu_TestNG.Group_Execution">
+      <class name="Siva_Nandhu_TestNG.Asics_Project">
         <methods>
-          <include name="registerlogin1"/>
+          <include name="frameWork"/>
         </methods>
-      </class> <!-- Siva_Nandhu_TestNG.Group_Execution -->
+      </class> <!-- Siva_Nandhu_TestNG.Asics_Project -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
